@@ -9,7 +9,7 @@
     "start": "node index.js & python3 main.py"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "mongodb": "^3.3.2",
     "socket.io": "^2.2.0",
